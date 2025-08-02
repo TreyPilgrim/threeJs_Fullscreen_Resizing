@@ -1,0 +1,25 @@
+/*
+    * - a selector
+        > means all elements on the page will have whatever is in these borders
+        > global style 
+
+*/
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
